@@ -1,2 +1,2 @@
 # C-programs
-in this repository i have uploaded 3 programs in c language on Arrays - 1D,2D and 3D.
+This is my first repository.It is about simple C programs on diffents concepts of C programming language.
